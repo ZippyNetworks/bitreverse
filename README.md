@@ -1,4 +1,4 @@
-# BITREVERSE - REVERSE MINING
+# BITREVERSE - REVERSE MINING - My attemot to modify original project to work with AMD Stream vs CUDA using HIP
 Bitcoin, Altcoins and Ethereum address collision mining software.
 Multi GPUs, full CUDA optimised.
 
